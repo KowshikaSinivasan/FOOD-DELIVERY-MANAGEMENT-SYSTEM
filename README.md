@@ -112,30 +112,25 @@ This system includes:
 
 ---
 
-## 📁 Project Structure
-
-Food-Delivery-DBMS/
-├── src/
-│ ├── LoginPage.java
-│ ├── CustomerModule.java
-│ ├── RestaurantModule.java
-│ ├── DriverModule.java
-│ └── utils/
-│ └── DBConnection.java
-├── database/
-│ ├── schema.sql
-│ ├── constraints.sql
-│ └── triggers.sql
-├── assets/
-│ ├── ER_Diagram.png
-│ └── screenshots/
-├── README.md
-└── .gitignore
-
----
-
 ## 📸 Screenshots
-
+LOGIN PAGE
+<img width="1006" height="647" alt="image" src="https://github.com/user-attachments/assets/f350f559-39fd-40a0-8350-898455fad5cf" />
+SIGN-UP PAGE
+<img width="892" height="743" alt="image" src="https://github.com/user-attachments/assets/06fb8b7e-48c2-44ec-be80-c1057022ae98" />
+CUSTOMER SIGN-UP PAGE
+<img width="923" height="761" alt="image" src="https://github.com/user-attachments/assets/95a57fad-c3a0-47ce-8f85-0b26b8a2f47b" />
+RESTAURANT SIGN-UP PAGE
+<img width="1008" height="887" alt="image" src="https://github.com/user-attachments/assets/f261e8f1-acab-4b40-a9b1-08f6f86a5c1b" />
+DELIVERY PARTNES SIGN-UP PAGE
+<img width="1519" height="830" alt="image" src="https://github.com/user-attachments/assets/d7d7303f-6b8c-429b-9dbd-7346c583c85f" />
+TRACK ORDERS
+<img width="405" height="273" alt="image" src="https://github.com/user-attachments/assets/69473a7f-23cf-4df2-a9c4-d77a8776e663" />
+CANCELLING SHIPPED ORDERS
+<img width="1014" height="844" alt="image" src="https://github.com/user-attachments/assets/8ced8fc8-a82c-49a0-8e30-44865e1f4266" />
+RESTAURANT VIEW ORDER
+<img width="848" height="697" alt="image" src="https://github.com/user-attachments/assets/718210dc-2eee-4dcd-b9b2-33f2611178db" />
+RESTAURANT-ADD/REMOVE AN ITEM 
+<img width="740" height="688" alt="image" src="https://github.com/user-attachments/assets/82d790c5-2bc9-43c8-9724-1091eff1b7f1" />
 
 ---
 ## 📌 How to Run
