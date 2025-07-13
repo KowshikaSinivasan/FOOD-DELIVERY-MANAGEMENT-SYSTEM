@@ -115,7 +115,7 @@ This system includes:
 ## 📸 Screenshots
 LOGIN PAGE
 
-img width="1006" height="647" alt="image" src="https://github.com/user-attachments/assets/f350f559-39fd-40a0-8350-898455fad5cf" />
+<img width="1006" height="647" alt="image" src="https://github.com/user-attachments/assets/f350f559-39fd-40a0-8350-898455fad5cf" />
 
 SIGN-UP PAGE
 
